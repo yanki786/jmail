@@ -1,4 +1,4 @@
-# jmail
+# JMail
 ## version 1.0
 
 ### Mailing service build on top of javax.mail
@@ -11,5 +11,5 @@
 - Can preview template before sending
 - Group mailing by using excel file
 - Individual mailing throw excel file
-- Contain configuration for GMails, YahooMails, OfficeMails,Cloud_Mails 
+- Contain the configuration for GMails, YahooMails, OfficeMails,Cloud_Mails 
   and more can be added as per user requirement.
