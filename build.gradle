@@ -1,0 +1,13 @@
+allprojects {
+    apply plugin: 'java'
+
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+}
+
+dependencies {
+    compile project(':core')
+}

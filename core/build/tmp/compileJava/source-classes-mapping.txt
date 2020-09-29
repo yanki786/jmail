@@ -1,0 +1,39 @@
+javax/jmail/config/MailProperties.java
+ javax.jmail.config.MailProperties
+ javax.jmail.config.MailProperties$HostConfig
+javax/jmail/beans/MessageSenderBean.java
+ javax.jmail.beans.MessageSenderBean
+javax/jmail/utils/HTMLPreviewer.java
+ javax.jmail.utils.HTMLPreviewer
+javax/jmail/beans/MessageBeanImp.java
+ javax.jmail.beans.MessageBeanImp
+javax/jmail/utils/ExcelFileReader.java
+ javax.jmail.utils.ExcelFileReader
+javax/jmail/beans/UserBean.java
+ javax.jmail.beans.UserBean
+javax/jmail/message/MessageReader.java
+ javax.jmail.message.MessageReader
+javax/jmail/message/MessageReaderImp.java
+ javax.jmail.message.MessageReaderImp
+javax/jmail/label/GeneralLabelManager.java
+ javax.jmail.label.GeneralLabelManager
+javax/jmail/utils/MailSession.java
+ javax.jmail.utils.MailSession
+ javax.jmail.utils.MailSession$1
+javax/jmail/message/MessageDeleterImp.java
+ javax.jmail.message.MessageDeleterImp
+javax/jmail/beans/MessageBean.java
+ javax.jmail.beans.MessageBean
+javax/jmail/message/MessageDeleter.java
+ javax.jmail.message.MessageDeleter
+javax/jmail/utils/EMailValidator.java
+ javax.jmail.utils.EMailValidator
+javax/jmail/message/MailSender.java
+ javax.jmail.message.MailSender
+javax/jmail/message/MailSenderImp.java
+ javax.jmail.message.MailSenderImp
+javax/jmail/label/LabelManager.java
+ javax.jmail.label.LabelManager
+ javax.jmail.label.LabelManager$JFolder
+javax/jmail/system/MailSystem.java
+ javax.jmail.system.MailSystem
